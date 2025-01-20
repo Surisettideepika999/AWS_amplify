@@ -3,9 +3,7 @@ import "./Calculator.css"
 
 const Calci = () => {
     const [cal,setVal]=useState("")
-    const [result,setResult]=useState("")
     const Clear=()=>{
-        setResult("");
         setVal("")
     }
   return (
