@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import Calci from './Calci';
 
 function App() {
